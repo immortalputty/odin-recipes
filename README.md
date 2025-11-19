@@ -1,0 +1,1 @@
+This is a project in which I built out 3 food recipes in HTML. During this project I demonstrated setting up basic HTML pages, creating ordered and unordered lists, adding images to site pages, using headers, and linking HTML pages to eachother.
